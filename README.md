@@ -78,6 +78,7 @@ gantt
     场景搭建:active, dev1, after des2, 45d
     功能搭建:active, dev2, 2026-03-15, 60d
     section 测试阶段
+    首个DEMO测试:active,est3, 2026-02-19, 2026-03-20
     项目未打包测试:test1, after dev1, 15d
     项目打包测试:test2, after dev2, 10d
 ```
