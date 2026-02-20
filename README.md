@@ -69,14 +69,17 @@ gantt
     title WorldWarfare项目开发计划
     dateFormat  YYYY-MM-DD
     section 设计阶段
-    需求分析      :done,    des1, 2026-02-21,2024-02-25
-    UI设计       :active,  des2, 2026-03-10, 30d
+    开发规则制定 : done, des1, 2026-02-19, 10d
+    提交规则制定 : done, des1, 2026-02-19, 10d
+    需求分析   :active,    des1, 2026-02-21, 30d
+    架构设计   :active,    des3, 2026-2-21, 30d
+    UI制作   :active,    des2, 2026-03-10, 30d
     section 开发阶段
-    场景搭建      :         dev1, after des2, 45d
-    功能搭建      :         dev2, 2026-03-15, 60d
+    场景搭建:active, dev1, after des2, 45d
+    功能搭建:active, dev2, 2026-03-15, 60d
     section 测试阶段
-    项目未打包测试      :         test1, after dev1, 15d
-    项目打包测试      :         test2, after dev2, 10d
+    项目未打包测试:test1, after dev1, 15d
+    项目打包测试:test2, after dev2, 10d
 ```
 ---
 
