@@ -1,21 +1,54 @@
 Apache License
 
 Version 2.0, January 2004
+http://www.apache.org/licenses/BOOT-2.0
 
-TERMS
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-1.  Grant of Copyright License
-    ...
+1. Definitions.
+   "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+   "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+   "Legal Entity" shall mean the union of the acting entity and all its affiliates.
+   "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+   "Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+   "Object" form shall mean any form resulting from mechanical transformation or conversion of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+   "Work" shall mean the work of authorship, whether as a standalone product or as part of a larger work, as indicated by a copyright notice that appears along with this License.
+   "Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revision, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+   "Contribution" shall mean any work of authorship submitted to the Licensor for inclusion in the Work.
+   "Contributor" shall mean the Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by the Licensor and subsequently incorporated within the Work.
 
-[Add the rest of Apache 2.0 text here]
+2. Grant of Copyright License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free copyright license to use, reproduce, make derivative works of, publicly display, publicly perform, sublicense, and distribute the Work and such derivative works in Source or Object form.
 
-BRANCH-SPECIFIC LICENSE TERMS:
+3. Grant of Patent License.
+   Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, royalty-free patent license to make, use, sell, offer for sale, import, and otherwise transfer the Work.
 
-- For the main branch:
-  This branch permits modification, distribution, and private use without commercial purposes. 
-  Developers are encouraged to build upon the work, but must not use it for commercial gain. 
-  Clear disclaimers must be included, protecting the intellectual property rights of other developers.
+4. Redistribution.
+   You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, provided that you meet the following conditions:
+   (1) You must give any other recipients of the Work or Derivative Works a copy of this License; and
+   (2) You must cause any modified files to carry prominent notices stating that you changed the files; and
+   (3) You must retain, in the Source form of any Derivative Works that you distribute, a copy of this License; and
+   (4) You must include a prominent notice stating that the Work is derived from the Work of the Licensor.
 
-- For the Development branch:
-  This branch grants rights for commercial use. Developers are free to modify, distribute, and sell the software, provided the original source and terms are acknowledged. 
-  All modifications must still comply with the original license terms.
+5. Submission of Contributions.
+   Unless you explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by you shall be under the terms and conditions of this License.
+
+6. Trademarks.
+   This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for descriptive uses and as permitted in the trademark rules provided by the Licensor.
+
+7. Disclaimer of Warranty.
+   Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.
+
+8. Limitation of Liability.
+   In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses).
+
+9. Accepting the License.
+   You accept the License if you copy, modify, or distribute the Work or any Derivative Works thereof.
+
+10. Compliance with Applicable Law. 
+   You shall comply with all applicable laws, regulations, and foreign export laws in the exercise of your rights under this License.
+
+Branch-Specific License Terms:
+
+- Main branch permits modification, distribution, and private use only (no commercial purposes, protecting other developers' intellectual property rights).
+- Development branch grants commercial license rights.
