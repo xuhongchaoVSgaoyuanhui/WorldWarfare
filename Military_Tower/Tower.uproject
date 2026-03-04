@@ -30,6 +30,10 @@
 		{
 			"Name": "AnimToTexture",
 			"Enabled": true
+		},
+		{
+			"Name": "Druids",
+			"Enabled": false
 		}
 	]
 }
